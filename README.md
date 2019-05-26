@@ -1,7 +1,9 @@
 # DelegateEvent
 
 Delegate: It is a Pointer or takes a reference of another function.
+
   For Method: => Point To => Method
+  
   For Events: => Point To = > Event Handler Method
 
 In .NET every single event based on the Delegate. It points the same kind of method, including number and types of parameters and also the return type.
