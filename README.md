@@ -11,13 +11,19 @@ Simple Delegates:
   
 NOTES:
 With the help of delegates, we can extend an application and simply add a new feature by adding a class
+
 The glue between the event and the methods to be executed are the delegates.
+
 Event Handlers in the .NET Framework return void and take two parameters.
+
 The first paramter is the source of the event; that is the publishing object.
+
 The second parameter is an object derived from EventArgs.
+
 The primary difference between Delegates and Interfaces is that while delegates reduce the code base and increase readability of code, you have to be careful on how you use them otherwise you might end up sacrificing testability. Coding to interfaces is usually more reliable, even if it requires more code.
 
 Event VS Delegates
+
 Delegates are independent of events. ==> The event can not be created without delegates.
 
 
