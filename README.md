@@ -34,6 +34,9 @@ Delegates are independent of events. ==> The event can not be created without de
 Imp Links:
 
 https://www.intertech.com/Blog/c-sharp-tutorial-understanding-c-events/
+
 https://medium.com/@mail2sagarsalunkhe/understanding-delegates-and-events-in-c-7093ad8a22e7
+
 http://www.dotnet-guide.com/delegates-vs-interfaces-in-c-sharp.html
+
 https://www.codeproject.com/Articles/468967/Interfaces-vs-Delegates
